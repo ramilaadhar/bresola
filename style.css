@@ -1,11 +1,13 @@
-.header a {
-padding: 0 10px;
+.link-navigation {
+    padding: 0 10px;
 } 
-.header {
+
+.header-bg-grey {
     background: grey;
     padding: 20px;
 }
-.header img {
+
+.full-widh{
     width: 100%;
     height: auto;
 }
