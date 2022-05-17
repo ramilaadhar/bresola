@@ -1,0 +1,11 @@
+.header a {
+padding: 0 10px;
+} 
+.header {
+    background: grey;
+    padding: 20px;
+}
+.header img {
+    width: 100%;
+    height: auto;
+}
